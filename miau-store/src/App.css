@@ -41,13 +41,13 @@
   padding: 0 30px;
 }
 
-.header .navLinks a{
+.header .navLinks li {
   font-weight: bold;
   color: #838383;
   text-decoration: none;
 }
 
-.header .navLinks li a:hover {
+.header .navLinks li:hover {
   color: #ff5874;
 }
 

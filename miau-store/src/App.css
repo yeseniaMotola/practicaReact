@@ -5,7 +5,7 @@
   font-family: 'Josefin Sans', sans-serif;
 }
 
-.header {
+/*.header {
   background-color: #ffcdd6;
   display: flex;
   justify-content: space-between;
@@ -65,4 +65,4 @@
 .header .botonBuscar:hover{
   background-color: #838383;
   transform: scale(1.2);
-}
+}*/
